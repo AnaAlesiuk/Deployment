@@ -3,4 +3,4 @@ Industrialization of a machine learning algorithm and automation of decision-mak
 
 my email: anastasia@phiskills.com
 
-video-explanation: 
+video-explanation: https://youtu.be/EqzPjo5J0fo
